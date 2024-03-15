@@ -9,7 +9,7 @@ function romanToInt(roman) {
     ["M", 1000],
   ]);
 
-  const romanStrings = roman.split("");
+  const romanStrings = roman.toUpperCase().split("");
   let sum = 0;
 
   for (let i = 0; i < romanStrings.length; i++) {
