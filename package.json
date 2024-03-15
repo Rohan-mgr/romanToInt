@@ -1,5 +1,5 @@
 {
-  "name": "romantoint",
+  "name": "@rohan-rana-magar/romantoint",
   "version": "1.0.0",
   "description": "This is a package for converting the roman numbers into the integer.",
   "main": "index.js",
